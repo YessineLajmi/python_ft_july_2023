@@ -16,8 +16,6 @@
 <img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/Python-logo.png" alt="Python logo" width="180">
 </fieldset >
 
-<br/>
-
 <fieldset>
 
 # Python tools used for this stack 🐍
