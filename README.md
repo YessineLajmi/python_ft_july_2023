@@ -9,10 +9,8 @@
 
 <br/>
 
-<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/CD_Horizontal_Logo_Blue.png" alt="Coding Dojo Logo" width="180" height="180">
-
-
-<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/Python-logo.png" alt="Python logo" width="180" height="180">
+<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/CD_Horizontal_Logo_Blue.png" alt="Coding Dojo Logo" width="180" >
+<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/Python-logo.png" alt="Python logo" width="180">
 </fieldset >
 
 <fieldset>
