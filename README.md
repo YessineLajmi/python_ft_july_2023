@@ -9,10 +9,8 @@
 
 <br/>
 
-<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/CD_Horizontal_Logo_Blue.png" alt="Coding Dojo Logo" width="180" height="180">
-
-
-<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/Python-logo.png" alt="Python logo" width="180" height="180">
+<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/CD_Horizontal_Logo_Blue.png" alt="Coding Dojo Logo" width="180" >
+<img src="https://github.com/Dalihamrouni/git_assets/blob/1d218fe43c3f241a90113a462c3f890fe59c172e/Python-logo.png" alt="Python logo" width="180">
 </fieldset >
 
 <fieldset>
@@ -20,9 +18,8 @@
 # Python tools used for this stack 🐍
 
 <!-- FOLLOW -->
-[![follow](https://img.shields.io/github/followers/jupiterorbita.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jupiterorbita) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=f6d766) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) -->
-<!-- # ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) VSCode extensions I use -->
+[![follow](https://img.shields.io/github/followers/Dalihamrouni.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Dalihamrouni) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=f6d766) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+
 
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
