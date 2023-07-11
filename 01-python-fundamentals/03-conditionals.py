@@ -4,4 +4,4 @@ if age>18:
 elif age > 70:
     print("you need to rest ")
 else:
-    print("Go Home")÷
+    print("Go Home")
